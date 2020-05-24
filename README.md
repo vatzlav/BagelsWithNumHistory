@@ -1,2 +1,2 @@
 # BagelsWithNumHistory.py
-A simple guessing game that can be played for fun
+A game of guessing 3-digit number that can be played for fun and keeps records of your guesses
